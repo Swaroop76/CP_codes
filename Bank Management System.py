@@ -27,6 +27,6 @@ class BankAccount:
 account=BankAccount("10DJA84JD","JJ Jameson")
 
 #deposit money
-account.deposit(4000)
+account.deposit(10000)
 
 account.withdraw(5000)
